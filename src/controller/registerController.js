@@ -33,7 +33,7 @@ const registerPostController = async(req, res) =>{
             
             await transporter.sendMail(mailOptions)
 
-        res.redirect("/api/login")
+        res.redirect("/api/user/login")
         
     } catch (error) {
         console.log(error)

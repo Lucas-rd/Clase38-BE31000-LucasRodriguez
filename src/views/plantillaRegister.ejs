@@ -8,7 +8,7 @@
 </head>
 <body>
     
-    <form action="/api/register" enctype="multipart/form-data" method="POST" >
+    <form action="/api/user/register" enctype="multipart/form-data" method="POST" >
         <p>Registro de usuario nuevo</p>
         <input type="text" name="username" id="username" placeholder="Ingrese su usuario">
         <input type="text" name="password" id="password" placeholder="Ingrese su password">
@@ -19,6 +19,6 @@
         <input type="file" name="userAvatar" id="userAvatar">
         <input type="submit" name="submitLogin" id="submitLogin" value="Enviar">        
     </form>
-    <button onclick="location.href='/api/login'">Ir a login</button>
+    <button onclick="location.href='/api/user/login'">Ir a login</button>
 </body>
 </html>

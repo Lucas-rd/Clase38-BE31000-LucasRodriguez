@@ -42,7 +42,7 @@ const cartControllerInsertProduct = async (req, res) => {
         await cartDAO.updateDocument(cartId, cartToUpdate)
         console.log(`Producto ${productId} agregado al carrito`)
 
-        res.redirect("/api/login")
+        res.redirect("/api/user/login")
 
     } catch (error) {
         console.log(error)
@@ -115,7 +115,7 @@ const cartControllerPurchase = async (req, res) => {
         await whatsappClient.messages.create(whatsappOptions)
         
         //enviamos SMS al user
-        smsOptions.body += `${req.session.user}, tu pedido se esta procesando :)`
+        smsOptions.body = `${req.session.user}, tu pedido se esta procesando :)`
         smsOptions.to = `+54${req.session.phoneNumber}`
 
         await smsClient.messages.create(smsOptions)
@@ -128,7 +128,7 @@ const cartControllerPurchase = async (req, res) => {
         await cartDAO.updateDocument(cartId, cartToUpdate)
 
         //redireccion al home del user
-        res.redirect("/api/login")
+        res.redirect("/api/user/login")
     } catch (error) {
         console.log(error)
     }
