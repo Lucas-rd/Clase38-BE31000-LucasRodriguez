@@ -1,0 +1,88 @@
+{"level":"warn","message":"Ruta /carts/63268b6f563dc28b685cab9e/insertproduct/62dc6faea37be7f856862ba6 con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /products/ con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /products/ con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /products/ con metodo GET no implementadas en el servidor."}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"WIN_20211116_11_29_24_Pro.jpg\" (type string) at path \"_id\" for model \"products\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"WIN_20211116_11_29_24_Pro.jpg\"","value":"WIN_20211116_11_29_24_Pro.jpg","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"WIN_20211116_11_29_24_Pro.jpg\" (type string) at path \"_id\" for model \"products\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"WIN_20211116_11_29_24_Pro.jpg\"","value":"WIN_20211116_11_29_24_Pro.jpg","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"WIN_20211116_11_29_24_Pro.jpg\" (type string) at path \"_id\" for model \"products\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"WIN_20211116_11_29_24_Pro.jpg\"","value":"WIN_20211116_11_29_24_Pro.jpg","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"WIN_20211116_11_29_24_Pro.jpg\" (type string) at path \"_id\" for model \"products\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"WIN_20211116_11_29_24_Pro.jpg\"","value":"WIN_20211116_11_29_24_Pro.jpg","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"WIN_20211116_11_29_24_Pro.jpg\" (type string) at path \"_id\" for model \"products\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"WIN_20211116_11_29_24_Pro.jpg\"","value":"WIN_20211116_11_29_24_Pro.jpg","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"WIN_20211116_11_29_24_Pro.jpg\" (type string) at path \"_id\" for model \"products\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"WIN_20211116_11_29_24_Pro.jpg\"","value":"WIN_20211116_11_29_24_Pro.jpg","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"WIN_20211116_11_29_24_Pro.jpg\" (type string) at path \"_id\" for model \"products\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"WIN_20211116_11_29_24_Pro.jpg\"","value":"WIN_20211116_11_29_24_Pro.jpg","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"WIN_20211116_11_29_24_Pro.jpg\" (type string) at path \"_id\" for model \"products\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"WIN_20211116_11_29_24_Pro.jpg\"","value":"WIN_20211116_11_29_24_Pro.jpg","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"bdust2.jpg\" (type string) at path \"_id\" for model \"products\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"bdust2.jpg\"","value":"bdust2.jpg","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"lucasavatar.jpg\" (type string) at path \"_id\" for model \"products\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"lucasavatar.jpg\"","value":"lucasavatar.jpg","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"lucasavatar.jpg\" (type string) at path \"_id\" for model \"products\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"lucasavatar.jpg\"","value":"lucasavatar.jpg","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"lucasavatar.jpg\" (type string) at path \"_id\" for model \"products\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"lucasavatar.jpg\"","value":"lucasavatar.jpg","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"lucasavatar.jpg\" (type string) at path \"_id\" for model \"products\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"lucasavatar.jpg\"","value":"lucasavatar.jpg","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"lucasavatar.jpg\" (type string) at path \"_id\" for model \"products\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"lucasavatar.jpg\"","value":"lucasavatar.jpg","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"lucasavatar.jpg\" (type string) at path \"_id\" for model \"products\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"lucasavatar.jpg\"","value":"lucasavatar.jpg","valueType":"string"}
+{"level":"warn","message":"Ruta /proucts/all con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /proucts/all con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /proucts/all con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /proucts/all con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /proucts/all con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /proucts/all con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /proucts/all con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /proucts/all con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /proucts/all con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /proucts/all con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /proucts/all con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /proucts/all con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /proucts/all con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /proucts/all con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /proucts/all con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /proucts/all con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /proucts/all con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /proucts/all con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /proucts/all con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /proucts/all con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /proucts/all con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /proucts/all con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /proucts/all con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /proucts/all con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /proucts/all con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /proucts/all con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /proucts/all con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /proucts/all con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /proucts/all con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /proucts/all con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /proucts/all con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /proucts/all con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /proucts/all con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /proucts/all con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /proucts/all con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /proucts/all con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /proucts/all con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /proucts/all con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /proucts/all con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /proucts/all con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /products/all con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /products/all con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /products/all con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /products/all con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /products con metodo GET no implementadas en el servidor."}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"test\" (type string) at path \"_id\" for model \"products\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"test\"","value":"test","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"test\" (type string) at path \"_id\" for model \"products\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"test\"","value":"test","valueType":"string"}
+{"level":"warn","message":"Ruta /test con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /asd con metodo GET no implementadas en el servidor."}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"test\" (type string) at path \"_id\" for model \"products\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"test\"","value":"test","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"asd\" (type string) at path \"_id\" for model \"products\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"asd\"","value":"asd","valueType":"string"}
+{"level":"warn","message":"Ruta /test con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /asd con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /wd1dw con metodo GET no implementadas en el servidor."}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"asd\" (type string) at path \"_id\" for model \"products\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"asd\"","value":"asd","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"wd1dw\" (type string) at path \"_id\" for model \"products\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"wd1dw\"","value":"wd1dw","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"test\" (type string) at path \"_id\" for model \"products\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"test\"","value":"test","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"test\" (type string) at path \"_id\" for model \"products\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"test\"","value":"test","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"asd\" (type string) at path \"_id\" for model \"products\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"asd\"","value":"asd","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"wd1dw\" (type string) at path \"_id\" for model \"products\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"wd1dw\"","value":"wd1dw","valueType":"string"}
+{"level":"warn","message":"Ruta /register con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /register con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /register con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /register con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /register con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /user/register con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /user/register con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /user/register con metodo GET no implementadas en el servidor."}
+{"level":"warn","message":"Ruta /user/register con metodo GET no implementadas en el servidor."}
