@@ -1,8 +1,8 @@
 import { cartDAO } from "../DAO/cartDAO.js";
 import { productDAO } from "../DAO/productDAO.js";
-import { mailOptions, transporter } from "../middleware/nodemailer.js";
-import { smsClient, smsOptions } from "../middleware/twilioSms.js";
-import { whatsappClient, whatsappOptions } from "../middleware/twilioWatsapp.js";
+import { mailOptions, transporter } from "../utils/nodemailer.js";
+import { smsClient, smsOptions } from "../utils/twilioSms.js";
+import { whatsappClient, whatsappOptions } from "../utils/twilioWatsapp.js";
 
 const cartControllerGet = async (req, res) => {
     try {
