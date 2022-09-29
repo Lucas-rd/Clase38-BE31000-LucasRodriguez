@@ -1,5 +1,5 @@
 import { cartDAO } from "../DAO/cartDAO.js"
-import { mailOptions, transporter } from "../middleware/nodemailer.js"
+import { mailOptions, transporter } from "../utils/nodemailer.js"
 
 const registerController = async(req, res) =>{
     
@@ -16,6 +16,7 @@ const registerPostController = async(req, res) =>{
         req.session.email = req.user.email
         req.session.phoneNumber = req.body.phoneNumber
         req.session.avatar = req.body.avatar
+        req.session.role = req.body.role
 
         //creamos un carrito para el user 
         const newCartId = await cartDAO.createDocument(req.session.userId)

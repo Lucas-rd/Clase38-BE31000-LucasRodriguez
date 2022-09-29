@@ -23,3 +23,16 @@
 {"kind":"ObjectId","message":"Cast to ObjectId failed for value \"test\" (type string) at path \"_id\" for model \"products\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"test\"","value":"test","valueType":"string"}
 {"kind":"ObjectId","message":"Cast to ObjectId failed for value \"asd\" (type string) at path \"_id\" for model \"products\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"asd\"","value":"asd","valueType":"string"}
 {"kind":"ObjectId","message":"Cast to ObjectId failed for value \"wd1dw\" (type string) at path \"_id\" for model \"products\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"wd1dw\"","value":"wd1dw","valueType":"string"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}

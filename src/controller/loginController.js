@@ -21,6 +21,7 @@ const loginPostController = async (req, res) => {
     req.session.userId = loggedUser._id
     req.session.phoneNumber = loggedUser.phoneNumber
     req.session.avatar = loggedUser.avatar
+    req.session.role = loggedUser.role
 
     //obtenemos los datos del carrito del user que logro logearse y guardamos su id en el req.session
     const loggedUserCart = await cartDAO.getByUserId(req.session.userId)
